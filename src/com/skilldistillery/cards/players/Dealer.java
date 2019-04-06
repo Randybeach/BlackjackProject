@@ -25,4 +25,7 @@ public class Dealer extends Player {
 	public Card getPartialHand() {
 		return hand.getCards().get(0);
 	}
+	public Deck showDeck() {
+		return deck;
+	}
 }

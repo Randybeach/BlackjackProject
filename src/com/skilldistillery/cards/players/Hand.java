@@ -17,7 +17,8 @@ public class Hand {
 		value += card.getValue();
 	}
 	public void clearHand() {
-		cards = null;
+		cards.removeAll(cards);
+		value = 0;
 	}
 	public List<Card> getCards(){
 		return cards;
