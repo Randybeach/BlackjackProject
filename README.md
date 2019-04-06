@@ -12,3 +12,5 @@ This is a command line poker game. You get $100 every time you play again and th
 
 ### Lessons Learned
 This was good practice with packages and OOP, preserving functionality by keeping logic isolated in the proper classes, and building reusable code. 
+
+![UML Diagram](https://github.com/SkillDistillery/SD20/blob/master/java2/Blackjack/images/Blackjack.png?raw=true)
